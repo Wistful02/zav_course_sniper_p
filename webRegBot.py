@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 credentials = {
-    'username': 'ys902',
-    'password': 'Ajourney1936',
+    'username': '',
+    'password': '',
 }
 print("amongus")
 chrome_options = Options()
