@@ -12,7 +12,7 @@ credentials = {
 }
 print("amongus")
 chrome_options = Options()
-chrome_options.add_argument(r"--user-data-dir=/Users/zaviersun/Library/Application Support/Google/Chrome/")
+chrome_options.add_argument(r"--user-data-dir=")
 chrome_options.add_argument(r'--profile-directory=Profile 1')
 chrome_options.add_experimental_option("detach", True)
 
